@@ -10,4 +10,4 @@ How to test Appium and Selenium:
 6. Run file by type "python filename.py"
 
 For Appium:
-Before run file, activate appium server, and emulator.
+Before run file, activate appium server, and emulator, and also make sure the APK has same folder with the python file.
